@@ -2,6 +2,7 @@
 This is the source code to run the Elegookit iPhone app that was originally developed for the Robot car 3 **PLUS** with the old Robot Car V3.0 (without PLUS). I have reverse engineered the commands of the app and now you can still use your old Robot Car Kit 3.0 with the new app. 
 
 ### Project Demo
+[![Watch the Demo](thumb.png)](https://github.com/TheTechNerd777/Elegoo-Smart-Robot-Smooth-ControlV3_0/releases/download/V1.0/Elegoo.Robot.Car.3.1.mp4)
 
 # Elegoo Smart Robot Car - Smooth App & Line Control
 

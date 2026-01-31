@@ -3,7 +3,12 @@ This is the source code to run the Elegookit iPhone app that was originally deve
 
 ### Project Demo
 
-
+<div align="center">
+  <h2>Short Demo: Smooth Obstacle Avoidance & Line Tracking</h2>
+  <video src="https://github.com/TheTechNerd777/Elegoo-Smart-Robot-Smooth-ControlV3_0/releases/download/V1.0/Elegoo.Robot.Car.3.1.mp4" width="100%" controls>
+    Ihr Browser unterstützt das Video-Tag nicht.
+  </video>
+</div>
 # Elegoo Smart Robot Car - Smooth App & Line Control
 
 This repository contains an optimized Arduino sketch for the **Elegoo Smart Robot Car (V3.0)**. It replaces the jerky standard movements with smooth, professional logic and unlocks the full potential of the Bluetooth control app.

@@ -3,13 +3,13 @@ This is the source code to run the Elegookit iPhone app that was developed for t
 
 # Elegoo Smart Robot Car - Smooth App & Line Control
 
-This repository contains an optimized Arduino sketch for the **Elegoo Smart Robot Car (V3.0/V4.0)**. It replaces the jerky standard movements with smooth, professional logic and unlocks the full potential of the Bluetooth control app.
+This repository contains an optimized Arduino sketch for the **Elegoo Smart Robot Car (V3.0)**. It replaces the jerky standard movements with smooth, professional logic and unlocks the full potential of the Bluetooth control app.
 
 ## 🚀 Key Features
 
 * **Dynamic Speed Control:** Real-time speed adjustment (0-255 PWM) using the 10-bar slider in the app (via `D2` data parsing).
 * **8-Way Precision Steering:** Fully mapped joystick control, including all diagonal movements (Forward-Left/Right, Back-Left/Right).
-* **Smooth Line Tracking:** Uses a differential steering algorithm specifically tuned for **4cm wide tape**. Instead of "zig-zagging," the car performs smooth arc turns.
+* **Smooth Line Tracking:** Uses a differential steering algorithm specifically tuned for **4cm wide tape** (a.k.a Gaffa Tape). Instead of "zig-zagging," the car performs smooth arc turns.
 * **Autonomous Obstacle Avoidance:** Integrated "Radar Scan" – the car stops, looks left and right with the ultrasonic sensor, and chooses the path with the most clearance.
 * **Mode Switching:** Seamlessly switch between Manual Bluetooth control, Line Tracking, and Obstacle Avoidance via app commands.
 
@@ -39,10 +39,10 @@ This code is designed to work with the standard Bluetooth Sniffer/Controller app
 
 ## 🔧 Installation
 
-1. Download the `RobotControl.ino` file from this repo.
+1. Download the `.ino` file from this repo.
 2. Open it in the **Arduino IDE**.
 3. Ensure you have the `Servo` library installed.
-4. Connect your Arduino Uno via USB and upload the code.
+4. Connect your Arduino Uno via USB and upload the code. Make sure that Bluetooth module is NOT connected while uploading!!!!!
 5. Connect via Bluetooth and start driving!
 
 ## 📜 License

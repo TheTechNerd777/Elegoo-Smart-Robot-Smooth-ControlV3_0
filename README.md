@@ -1,6 +1,8 @@
 # Elegoo-Smart-Robot-Smooth-ControlV3_0
 This is the source code to run the Elegookit iPhone app that was originally developed for the Robot car 3 **PLUS** with the old Robot Car V3.0 (without PLUS). I have reverse engineered the commands of the app and now you can still use your old Robot Car Kit 3.0 with the new app. 
 
+[![Watch the Demo](https://img.youtube.com/vi/iPJJ6ZrjQEc/0.jpg)](https://www.youtube.com/watch?v=iPJJ6ZrjQEc)
+
 # Elegoo Smart Robot Car - Smooth App & Line Control
 
 This repository contains an optimized Arduino sketch for the **Elegoo Smart Robot Car (V3.0)**. It replaces the jerky standard movements with smooth, professional logic and unlocks the full potential of the Bluetooth control app.
